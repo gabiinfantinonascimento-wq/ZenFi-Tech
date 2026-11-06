@@ -1,1 +1,2 @@
-# O ZenFi usa apenas a biblioteca padrão do Python; nenhuma dependência externa é necessária.
+flask==3.0.3
+gunicorn==22.0.0
